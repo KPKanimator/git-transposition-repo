@@ -1,0 +1,14 @@
+C:\Users\Alferoff\Desktop\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\hs071_cs.exe
+C:\Users\Alferoff\Desktop\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\hs071_cs.pdb
+C:\Users\Alferoff\Desktop\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\Cureos.Numerics.dll
+C:\Users\Alferoff\Desktop\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\Cureos.Numerics.pdb
+C:\Users\Alferoff\Desktop\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x64\Debug\hs071_cs.csprojResolveAssemblyReference.cache
+C:\Users\Alferoff\Desktop\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x64\Debug\hs071_cs.exe
+C:\Users\Alferoff\Desktop\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x64\Debug\hs071_cs.pdb
+C:\Temp\Ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x64\Debug\hs071_cs.exe
+C:\Temp\Ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x64\Debug\hs071_cs.pdb
+C:\Temp\Ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\hs071_cs.exe
+C:\Temp\Ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\hs071_cs.pdb
+C:\Temp\Ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\Cureos.Numerics.dll
+C:\Temp\Ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x64\Debug\Cureos.Numerics.pdb
+C:\Temp\Ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x64\Debug\hs071_cs.csprojResolveAssemblyReference.cache

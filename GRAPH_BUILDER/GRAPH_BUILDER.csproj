@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{4115EF9E-C8C3-4B68-B935-44D3382D36CE}</ProjectGuid>
+    <ProjectGuid>{5F6917FE-74AB-4128-A5C2-B9126658F59F}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GRAPH_BUILDER</RootNamespace>

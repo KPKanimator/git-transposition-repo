@@ -1,0 +1,7 @@
+E:\Projects\ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x86\Debug\hs071_cs.exe
+E:\Projects\ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x86\Debug\hs071_cs.pdb
+E:\Projects\ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x86\Debug\Cureos.Numerics.dll
+E:\Projects\ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\bin\x86\Debug\Cureos.Numerics.pdb
+E:\Projects\ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x86\Debug\hs071_cs.csprojResolveAssemblyReference.cache
+E:\Projects\ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x86\Debug\hs071_cs.exe
+E:\Projects\ipopt\csipopt-0.9\Cureos.Numerics\hs071_cs\obj\x86\Debug\hs071_cs.pdb
